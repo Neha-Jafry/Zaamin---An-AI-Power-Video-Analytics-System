@@ -29,5 +29,3 @@ The class ids were fixed for our particular use ([fix_annot.ipynb](https://githu
 ### Augmentation
 
 For augmentation, [Imgaug](https://github.com/aleju/imgaug.git) was used. Details of augmentation can be found in [aug.ipynb](https://github.com/Neha-Jafry/Zaamin---An-AI-Power-Video-Analytics-System/blob/main/aug.ipynb)
-
-A
