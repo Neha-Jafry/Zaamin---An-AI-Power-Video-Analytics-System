@@ -22,7 +22,7 @@ Steps:
 
 ### Annotation
 
-For annotation, [labelImg](https://sourceforge.net/projects/labelimg.mirror/) an open source image annotation tool was used. LabelImg allows annotation in both PascalVOC and YOLO formats; Yolo format was used for this project.
+For annotation, [labelImg](https://sourceforge.net/projects/labelimg.mirror/) an open source image annotation tool was used. LabelImg allows annotation in both PascalVOC and YOLO formats; YOLO format was used for this project.
 
 The class ids were fixed for our particular use ([fix_annot.ipynb](https://github.com/Neha-Jafry/Zaamin---An-AI-Power-Video-Analytics-System/blob/main/fix_annot.ipynb)).
 
